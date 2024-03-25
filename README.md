@@ -1,6 +1,6 @@
 # Shopin - Flutter Shopping App
 
-Welcome to Shopin, your go-to mobile application for all your shopping needs! Shopin is a sleek and intuitive Flutter-based shopping app designed to provide users with a seamless shopping experience. Below are some of the key features that make Shopin stand out:
+Welcome to Shopin, mobile application for all your shopping needs! Shopin is a sleek and intuitive Flutter-based shopping app designed to provide users with a seamless shopping experience. Below are some of the key features that make Shopin stand out:
 
 ## App Preview:
 
